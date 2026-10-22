@@ -1,0 +1,9 @@
+# Build outputs
+*.exe
+*.obj
+*.pdb
+
+# Runtime files
+*.dll
+connector.ini
+WASimClient.log*
